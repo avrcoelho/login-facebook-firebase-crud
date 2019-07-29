@@ -28,7 +28,11 @@ target 'loginFbFirebase' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
+
+
   pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  pod 'RNFirebase', :path => '../node_modules/react-native-firebase'
 
   target 'loginFbFirebaseTests' do
     inherit! :search_paths
