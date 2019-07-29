@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61375779210",
+    "firebase_url": "https://auth-react-native-c7813.firebaseio.com",
+    "project_id": "auth-react-native-c7813",
+    "storage_bucket": "auth-react-native-c7813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61375779210:android:e35c76942f80d9ed",
+        "android_client_info": {
+          "package_name": "com.loginfbfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61375779210-smr8n8gjrknqji1f0if59c2m4riqu158.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RFD1uQEx0FKbp33_EyEQRlPRV__pqMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61375779210-smr8n8gjrknqji1f0if59c2m4riqu158.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61375779210-f2g5uus0mmudukuc6c6ga8me42fl3m7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andrecoelho.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
